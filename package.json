@@ -1,0 +1,29 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "Este é um projeto web simples.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natanhcerny-maker/soltless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natanhcerny-maker/soltless/issues"
+  },
+  "homepage": "https://github.com/natanhcerny-maker/soltless#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
